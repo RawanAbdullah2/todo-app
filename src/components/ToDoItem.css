@@ -1,0 +1,13 @@
+.goal-item {
+    margin-bottom:  0.9rem;
+    background: #4d4b4c;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    color: white;
+    padding: 0.6rem 0.7rem;
+    width: fit-content;
+
+  }
+  .Items{
+      display:flex;
+      width: 20%;
+  }
